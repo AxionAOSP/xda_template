@@ -32,7 +32,7 @@
 📚 [SIZE=4][B][COLOR=#4CAF50]Installation Guide[/COLOR][/B][/SIZE]
 [SIZE=3]Follow the official LineageOS instructions for your device:[/SIZE]
 [LIST]
-[*][URL='https://wiki.lineageos.org/devices/akita/install/']Pixel 8a (akita)[/URL]
+[*][URL='https://wiki.lineageos.org/devices/lynx/install/']Pixel 7a (lynx)[/URL]
 [/LIST]
 
 [HR][/HR]
@@ -45,7 +45,7 @@
 [*][URL='https://github.com/AxionAOSP'][B]🛠️ Source Code[/B][/URL]
 [*][URL='https://axionaosp.github.io/#screenshots'][B]📸 Screenshots[/B][/URL]
 [*][URL='https://axionaosp.github.io/#faq'][B]❓ Frequently Asked Questions (FAQs)[/B][/URL]
-[*][URL='https://android.googlesource.com/device/google/akita-kernels/5.15/'][B]🖥️ Kernel Source[/B][/URL]
+[*][URL='https://android.googlesource.com/device/google/lynx-kernels/5.10/'][B]🖥️ Kernel Source[/B][/URL]
 [/LIST]
 
 [HR][/HR]
