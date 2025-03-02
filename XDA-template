@@ -1,3 +1,4 @@
+Title: [ROM] [A15] AxionAOSP for XXX Series
 [CENTER][IMG]https://i.imgur.com/sm5iKFT.png[/IMG][/CENTER]
 
 [QUOTE]
@@ -32,26 +33,23 @@
 📚 [SIZE=4][B][COLOR=#4CAF50]Installation Guide[/COLOR][/B][/SIZE]
 [SIZE=3]Follow the official LineageOS instructions for your device:[/SIZE]
 [LIST]
-[*][URL='https://wiki.lineageos.org/devices/bluejay/install/']Pixel 6a (bluejay)[/URL]
+[*][URL='installation_guide_url']device name[/URL]
 [/LIST]
 
 [HR][/HR]
 
 🌐 [SIZE=4][B][COLOR=#4CAF50]Community & Resources[/COLOR][/B][/SIZE]
 [LIST]
-[*][URL='https://t.me/AxionAOSPChat'][B]💬 Support Chat[/B][/URL]
-[*][URL='https://t.me/AxionAOSP_PixelsSupport'][B]📱 Device Support Chat[/B][/URL] 
-[*][URL='https://t.me/AxionAOSPUpdates'][B]📢 Updates Channel[/B][/URL]
 [*][URL='https://github.com/AxionAOSP'][B]🛠️ Source Code[/B][/URL]
 [*][URL='https://axionaosp.github.io/#screenshots'][B]📸 Screenshots[/B][/URL]
 [*][URL='https://axionaosp.github.io/#faq'][B]❓ Frequently Asked Questions (FAQs)[/B][/URL]
-[*][URL='https://android.googlesource.com/device/google/bluejay-kernels/5.10/'][B]🖥️ Kernel Source[/B][/URL]
+[*][URL='kernel_source_url'][B]🖥️ Kernel Source[/B][/URL]
 [/LIST]
 
 [HR][/HR]
 
 📥 [SIZE=4][B][COLOR=#4CAF50]Download AxionOS[/COLOR][/B][/SIZE]
-[URL='https://www.pling.com/p/2259442/'][SIZE=5][B][COLOR=#4CAF50]-- Download Latest Build --[/COLOR][/B][/SIZE][/URL]
+[URL='download_link'][SIZE=5][B][COLOR=#4CAF50]-- Download Latest Build --[/COLOR][/B][/SIZE][/URL]
 
 [HR][/HR]
 
@@ -62,4 +60,4 @@
 [*]RisingOS
 [/LIST]
 
-[CENTER][SIZE=1]Maintainer: [B]rmp22[/B] | Build Date: [B]10/02/2025[/B][/SIZE][/CENTER]
+[CENTER][SIZE=1]Maintainer: [B]rmp22[/B][/SIZE][/CENTER]
